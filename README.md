@@ -9,3 +9,5 @@ This application is a logo generator that will display a prompt for the user and
 to use the app you need to have node.js installed and you simply run "node index.js".
 
 ## Video
+
+https://drive.google.com/file/d/1aMSlyOhAwVWxRwR5-mZPnSLPnx3DsE1s/view
